@@ -1,4 +1,4 @@
 # Sistemi Operativi - Appunti
 Breve descrizione del contenuto della repository.
 
-> **Nota:** Questi appunti sono stati presi durante le lezioni del 2024/2025.
+Questi appunti sono stati presi durante le lezioni del 2024/2025.
