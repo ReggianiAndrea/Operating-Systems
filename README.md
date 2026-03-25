@@ -1,2 +1,2 @@
-# Sistemi Operativi - Appunti
-Questi appunti sono stati presi durante le lezioni del 2024/2025.
+# Operating Systems - Notes
+These notes were taken during the 2024/2025 lessons.
